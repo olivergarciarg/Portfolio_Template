@@ -1,0 +1,57 @@
+.container {
+    width: 100%;
+}
+
+.my-header {
+   margin-top: 20px;
+}
+
+.logo {
+    max-width: 80px;
+}
+
+.header-text {
+    color: #2d3c49;
+}
+
+.my-horizontal-ruler {
+    border-width: 3px;
+    border-color: #7d97ad;
+}
+
+.banner {
+    width: 100%;
+}
+
+/*I am keeping classes with the same rules separated because I will improve this site and each class will have different rules in the future*/
+.central-image {
+    width: 100%;
+}
+
+.site-summary {
+    margin-top: 5px;
+    color: #7d97ad;
+}
+
+.site-summary-content {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.my-card {
+    border: none;
+    color: #2d3c49;
+}
+
+.card-image {
+    width: 100%;
+}
+
+.my-card-text {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.my-footer {
+    margin-top: 4px;
+}
